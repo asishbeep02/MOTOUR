@@ -1,2 +1,2 @@
 # MOTOUR
-This is a frontend end to end project in which we can choose monuments of our own and explore it!!!!
+Developed a frontend monument exploration application using HTML, CSS, and JavaScript. The project allows users to select different monuments and view key information, including location and history.
